@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Este  es el diseño de un inversor en Wokwi para ejemplificar el uso de Tiny Tapeout.
 
 ## How to test
 
-Explain how to use your project
+Se coloca en un pin de entrada un switch que varíe entre 0 y 3V para observar comportamiento de una compuerta lógica.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Se puede utilizar un DIP switch en la entrada y en la salida un LED con su respectiva resistencia de protección.
